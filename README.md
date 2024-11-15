@@ -23,4 +23,10 @@ Alguns anos depois, consegui meu **primeiro emprego na área de informática**, 
 ![VMware](https://img.shields.io/badge/-VMWare-607078?logo=vmware&logoColor=white&style=for-the-badge)  
 ![Office 365](https://img.shields.io/badge/Office_365-D83B01?logo=microsoft-office&logoColor=white&style=for-the-badge)  
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+
+## Github Status
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luizkarlus&show_icons=true&theme=graywhite" alt="Luiz Carlos França's GitHub stats">
+</div>
