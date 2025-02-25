@@ -1,6 +1,6 @@
 # Olá, meu nome é Luiz Carlos França
 
-Tenho 43 anos, sou cristão, casado e pai de dois filhos gêmeos. Sou formado em **Análise e Desenvolvimento de Sistemas** pela [Universidade Estácio de Sá](https://estacio.br) e tenho **pós-graduação em Segurança da Informação** pelo [EAD Descomplica](https://descomplica.com.br).
+Tenho mais de 40 anos, sou cristão, casado e pai de dois filhos gêmeos. Sou formado em **Análise e Desenvolvimento de Sistemas** pela [Universidade Estácio de Sá](https://estacio.br) e tenho **pós-graduação em Segurança da Informação** pelo [EAD Descomplica](https://descomplica.com.br).
 
 Comecei minha carreira estagiando em uma escola bastante conhecida na **Zona Sul do Rio de Janeiro**. Na época, eu ainda era muito inexperiente no mundo da informática, pois nem computador próprio eu tinha. A primeira vez que utilizei um computador foi no curso, e era apenas lá que eu podia praticar o que aprendia. Sabendo da minha situação, meu gerente na época me presenteou com um **AMD K6-2 500 MHz**. A máquina tinha uma vaga lembrança de memória: **512 MB de RAM**. Acreditem, para quem não tinha nada, isso era muito! 😀  
 
